@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <dict>
+        <key>URL</key>
+        <string>https://udid882992929292.herokuapp.com/enroll</string>
+        <key>DeviceAttributes</key>
+        <array>
+            <string>UDID</string>
+        </array>
+    </dict>
+    <key>PayloadOrganization</key>
+    <string>com.mhmd</string>
+    <key>PayloadDisplayName</key>
+    <string>udid.mhmd.app</string>
+    <key>PayloadVersion</key>
+    <integer>1.4</integer>
+    <key>PayloadUUID</key>
+    <string>0092exbc-8bd6-4442-b24c-e8wd1ba85716</string>
+    <key>PayloadIdentifier</key>
+    <string>com.mhmd.profile-service</string>
+    <key>PayloadDescription</key>
+    <string>This temporary profile will be used to find and display your current device's UDID.</string>
+    <key>PayloadType</key>
+    <string>Profile Service</string>
+</dict>
+</plist>
