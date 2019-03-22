@@ -6,24 +6,30 @@
     <dict>
         <key>URL</key>
         <string>https://udid882992929292.herokuapp.com/enroll</string>
-        <key>DeviceAttributes</key>
-        <array>
-            <string>UDID</string>
-        </array>
-    </dict>
-    <key>PayloadOrganization</key>
-    <string>com.mhmd</string>
-    <key>PayloadDisplayName</key>
-    <string>udid.mhmd.app</string>
-    <key>PayloadVersion</key>
-    <integer>1.4</integer>
-    <key>PayloadUUID</key>
-    <string>6df7a612-ce0a-4b4b-bce2-7b844e3c9df1</string>
-    <key>PayloadIdentifier</key>
-    <string>com.mhmd.profile-service</string>
-    <key>PayloadDescription</key>
-    <string>This temporary profile will be used to find and display your current device's UDID.</string>
-    <key>PayloadType</key>
-    <string>Profile Service</string>
+    <key>DeviceAttributes</key>
+    <array>
+        <string>UDID</string>
+        <string>DEVICE_NAME</string>
+        <string>VERSION</string>
+        <string>PRODUCT</string>
+        <string>MAC_ADDRESS_EN0</string>
+        <string>IMEI</string>
+        <string>ICCID</string>
+    </array>
+</dict>
+<key>PayloadOrganization</key>
+<string>udid.fun</string>
+<key>PayloadDisplayName</key>
+<string>https://udid.fun</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>PayloadUUID</key>
+<string>BDD0F593-5B98-47FF-A0A4-4B98E30CE461</string>
+<key>PayloadIdentifier</key>
+<string>get.udid.fun</string>
+<key>PayloadDescription</key>
+<string>UDID of my iOS device</string>
+<key>PayloadType</key>
+<string>Profile Service</string>
 </dict>
 </plist>
